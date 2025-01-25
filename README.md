@@ -5,6 +5,7 @@
 📚 Exploring exciting fields like Artificial Intelligence, Software Engineering and Data Analytics.<br/>
 💼 Actively seeking internships for 2025 in software development, AI, or data analytics. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/duy-phuc-nguyen-788813245/) or email me at [duyphuc070104@gmail.com].<br/>
 
+# 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=duyphuc0701&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 

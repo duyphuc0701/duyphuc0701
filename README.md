@@ -3,7 +3,6 @@
 👨🏻‍💻 Computer Science student passionate about building innovative solutions and learning cutting-edge technologies.<br/>
 👩🏻‍🎓 Currently studying the [Advanced Program in Computer Science (APCS)](https://www.ctda.hcmus.edu.vn/vi/2022/03/chuong-trinh-tien-tien-nganh-khoa-hoc-may-tinh-apcs-dat-chuan-kiem-dinh-chat-luong-mang-luoi-cac-dai-hoc-khu-vuc-asean-aun-qa/) at the University of Science, Vietnam National University, Ho Chi Minh City.<br/>
 📚 Exploring exciting fields like Artificial Intelligence, Software Engineering and Data Analytics.<br/>
-💼 Actively seeking internships for 2025 in software development, AI, or data analytics. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/duy-phuc-nguyen-788813245/) or email me at [duyphuc070104@gmail.com].<br/>
 
 # 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
